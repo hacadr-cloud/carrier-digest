@@ -14,6 +14,14 @@ on:
 
 permissions:
   contents: read
+  actions: read     # the already-delivered check reads this workflow's own run history
+
+# Never let two sends overlap (e.g. a late cron firing while carriers-pipeline.ps1
+# dispatches a CATCH-UP send). This does not stop *sequential* duplicates - the
+# already-delivered check below does that.
+concurrency:
+  group: line-morning-send
+  cancel-in-progress: false
 
 jobs:
   send:
@@ -25,11 +33,9 @@ jobs:
         env:
           LINE_CHANNEL_TOKEN: ${{ secrets.LINE_CHANNEL_TOKEN }}
           LINE_GROUP_ID: ${{ secrets.LINE_GROUP_ID }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
-          if [ ! -f line-latest.txt ]; then
-            echo "line-latest.txt missing; nothing to send"; exit 0
-          fi
           if [ -z "${LINE_CHANNEL_TOKEN:-}" ] || [ -z "${LINE_GROUP_ID:-}" ]; then
             echo "Secrets LINE_CHANNEL_TOKEN / LINE_GROUP_ID are not set"; exit 1
           fi
@@ -39,17 +45,44 @@ jobs:
           yday=$(TZ=Asia/Tokyo date -d 'yesterday' +%F)
           d=$(cat line-date.txt 2>/dev/null || echo "")
           if [ "$d" != "$today" ] && [ "$d" != "$yday" ]; then
-            echo "line-date='$d' is stale (today=$today); skipping send"; exit 0
+            echo "line-date='$d' is stale (today=$today); skipping send"
+            echo "NOT_DELIVERED reason=stale date=$d"
+            exit 0
           fi
+          # Fresh date but no payload = broken state, NOT "nothing to do". Fail loudly:
+          # exiting 0 here is what lets a non-delivery masquerade as a green run.
+          if [ ! -f line-latest.txt ]; then
+            echo "line-date='$d' is fresh but line-latest.txt is missing - inconsistent state"
+            exit 1
+          fi
+          sha=$(sha256sum line-latest.txt | cut -c1-12)
+
+          # Sequential-duplicate guard: if an earlier run today already delivered THIS exact
+          # digest, do not send it again (late cron + CATCH-UP dispatch would otherwise
+          # double-post to the group).
+          since=$(date -u -d "$today 00:00 +0900" +%Y-%m-%dT%H:%M:%SZ)
+          for rid in $(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/line-morning.yml/runs?per_page=30&status=success" \
+                       | jq -r --arg since "$since" '.workflow_runs[] | select(.created_at >= $since) | .id'); do
+            if [ "$rid" = "${GITHUB_RUN_ID:-}" ]; then continue; fi
+            if gh run view "$rid" --repo "$GITHUB_REPOSITORY" --log 2>/dev/null | grep -q "DELIVERED_OK sha=$sha"; then
+              echo "digest sha=$sha was already delivered by run $rid; skipping duplicate send"
+              echo "NOT_DELIVERED reason=already-delivered sha=$sha"
+              exit 0
+            fi
+          done
+
           jq -Rs --arg to "$LINE_GROUP_ID" \
             '{to:$to, messages:[{type:"text", text:.}]}' line-latest.txt > payload.json
-          code=$(curl -sS -o resp.json -w "%{http_code}" -X POST \
+          code=$(curl -sS --connect-timeout 10 --max-time 60 -o resp.json -w "%{http_code}" -X POST \
             https://api.line.me/v2/bot/message/push \
             -H "Authorization: Bearer $LINE_CHANNEL_TOKEN" \
             -H "Content-Type: application/json" \
             --data @payload.json)
           echo "LINE push HTTP $code"; cat resp.json || true
           test "$code" = "200"
+          # Machine-readable receipt. The watchdog greps THIS, not the run conclusion,
+          # because a skipped run is also "success".
+          echo "DELIVERED_OK sha=$sha date=$d"
 
       - name: Alert owner on failure
         if: failure()
@@ -62,8 +95,17 @@ jobs:
           jq -n --arg to "$LINE_USER_ID" \
             --arg text "[LSM自動配信] 朝のキャリアダイジェスト配信に失敗しました（GitHub Actions）。Runログを確認してください。" \
             '{to:$to, messages:[{type:"text", text:$text}]}' > alert.json
-          curl -sS -X POST https://api.line.me/v2/bot/message/push \
+          # Check the HTTP status: `curl ... || true` exits 0 on 401/429/500, so the old
+          # version printed "alert sent" even when the owner was never actually notified.
+          code=$(curl -sS --connect-timeout 10 --max-time 30 -o aresp.json -w "%{http_code}" \
+            -X POST https://api.line.me/v2/bot/message/push \
             -H "Authorization: Bearer $LINE_CHANNEL_TOKEN" \
             -H "Content-Type: application/json" \
-            --data @alert.json || true
-          echo "failure alert sent to owner"
+            --data @alert.json) || code="000"
+          cat aresp.json 2>/dev/null || true
+          if [ "$code" = "200" ]; then
+            echo "failure alert delivered to owner"
+          else
+            # LINE itself is the thing that is broken -> this alert path shares its fate.
+            echo "::error::failure alert could NOT be delivered (LINE HTTP $code) - owner was NOT notified"
+          fi
