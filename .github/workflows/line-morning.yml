@@ -55,7 +55,13 @@ jobs:
             echo "line-date='$d' is fresh but line-latest.txt is missing - inconsistent state"
             exit 1
           fi
-          sha=$(sha256sum line-latest.txt | cut -c1-12)
+          # Hash date+content so an identical digest on a different day still gets its own
+          # key. Derive a v4-shaped UUID from it: LINE's X-Line-Retry-Key makes the send
+          # idempotent SERVER-side for 24h, which closes the duplicate window that the
+          # log-based guard below cannot (racing runs, log read failure).
+          full=$( { cat line-date.txt; cat line-latest.txt; } | sha256sum | cut -c1-32 )
+          sha=${full:0:12}
+          retry_key="${full:0:8}-${full:8:4}-4${full:13:3}-a${full:17:3}-${full:20:12}"
 
           # Sequential-duplicate guard: if an earlier run today already delivered THIS exact
           # digest, do not send it again (late cron + CATCH-UP dispatch would otherwise
@@ -77,9 +83,18 @@ jobs:
             https://api.line.me/v2/bot/message/push \
             -H "Authorization: Bearer $LINE_CHANNEL_TOKEN" \
             -H "Content-Type: application/json" \
+            -H "X-Line-Retry-Key: $retry_key" \
             --data @payload.json)
           echo "LINE push HTTP $code"; cat resp.json || true
-          test "$code" = "200"
+          # 409 = "The retry key is already accepted": LINE suppressed a duplicate of THIS
+          # digest (key is valid 24h). The group already has it, so this is delivered, not
+          # a failure - verified live against the real API on 2026-07-15.
+          if [ "$code" != "200" ] && [ "$code" != "409" ]; then
+            exit 1
+          fi
+          if [ "$code" = "409" ]; then
+            echo "LINE deduplicated a duplicate send (retry key already accepted)"
+          fi
           # Machine-readable receipt. The watchdog greps THIS, not the run conclusion,
           # because a skipped run is also "success".
           echo "DELIVERED_OK sha=$sha date=$d"
