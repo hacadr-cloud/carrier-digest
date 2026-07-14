@@ -6,7 +6,10 @@ name: Morning LINE digest
 
 on:
   schedule:
-    - cron: '0 22 * * *'   # 22:00 UTC == 07:00 JST
+    # 22:13 UTC == 07:13 JST. NOT on the hour: GitHub delays/drops scheduled runs most
+    # at the top of every hour (2026-07-15: the first '0 22' fire never happened at all).
+    # Kept after 07:00 JST so the pipeline's NORMAL/CATCH-UP window split stays coherent.
+    - cron: '13 22 * * *'
   workflow_dispatch: {}     # allow manual test runs
 
 permissions:
