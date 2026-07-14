@@ -1,0 +1,49 @@
+name: Morning LINE digest
+
+# Hybrid delivery: the PC builds the digest in the evening and commits line-latest.txt
+# (+ line-date.txt) to this repo. This cron sends it to the LINE group at 07:00 JST,
+# so delivery does not depend on the PC being awake in the morning.
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # 22:00 UTC == 07:00 JST
+  workflow_dispatch: {}     # allow manual test runs
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send digest to LINE group
+        env:
+          LINE_CHANNEL_TOKEN: ${{ secrets.LINE_CHANNEL_TOKEN }}
+          LINE_GROUP_ID: ${{ secrets.LINE_GROUP_ID }}
+        run: |
+          set -euo pipefail
+          if [ ! -f line-latest.txt ]; then
+            echo "line-latest.txt missing; nothing to send"; exit 0
+          fi
+          if [ -z "${LINE_CHANNEL_TOKEN:-}" ] || [ -z "${LINE_GROUP_ID:-}" ]; then
+            echo "Secrets LINE_CHANNEL_TOKEN / LINE_GROUP_ID are not set"; exit 1
+          fi
+          # Staleness guard: only send if the digest was built today or yesterday (JST),
+          # so a PC that was off for days does not blast old news as if it were fresh.
+          today=$(TZ=Asia/Tokyo date +%F)
+          yday=$(TZ=Asia/Tokyo date -d 'yesterday' +%F)
+          d=$(cat line-date.txt 2>/dev/null || echo "")
+          if [ "$d" != "$today" ] && [ "$d" != "$yday" ]; then
+            echo "line-date='$d' is stale (today=$today); skipping send"; exit 0
+          fi
+          jq -Rs --arg to "$LINE_GROUP_ID" \
+            '{to:$to, messages:[{type:"text", text:.}]}' line-latest.txt > payload.json
+          code=$(curl -sS -o resp.json -w "%{http_code}" -X POST \
+            https://api.line.me/v2/bot/message/push \
+            -H "Authorization: Bearer $LINE_CHANNEL_TOKEN" \
+            -H "Content-Type: application/json" \
+            --data @payload.json)
+          echo "LINE push HTTP $code"; cat resp.json || true
+          test "$code" = "200"
