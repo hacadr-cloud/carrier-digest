@@ -47,3 +47,20 @@ jobs:
             --data @payload.json)
           echo "LINE push HTTP $code"; cat resp.json || true
           test "$code" = "200"
+
+      - name: Alert owner on failure
+        if: failure()
+        env:
+          LINE_CHANNEL_TOKEN: ${{ secrets.LINE_CHANNEL_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
+        run: |
+          [ -z "${LINE_CHANNEL_TOKEN:-}" ] && exit 0
+          [ -z "${LINE_USER_ID:-}" ] && exit 0
+          jq -n --arg to "$LINE_USER_ID" \
+            --arg text "[LSM自動配信] 朝のキャリアダイジェスト配信に失敗しました（GitHub Actions）。Runログを確認してください。" \
+            '{to:$to, messages:[{type:"text", text:$text}]}' > alert.json
+          curl -sS -X POST https://api.line.me/v2/bot/message/push \
+            -H "Authorization: Bearer $LINE_CHANNEL_TOKEN" \
+            -H "Content-Type: application/json" \
+            --data @alert.json || true
+          echo "failure alert sent to owner"
