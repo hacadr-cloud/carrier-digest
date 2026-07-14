@@ -38,8 +38,11 @@ jobs:
           fi
           # Was there a successful send since 00:00 JST today? Compare UTC ISO timestamps
           # (lexicographic order == chronological order for this format). A UTC *date*
-          # filter would be wrong: the 07:00 JST send is created on the previous UTC day.
-          since=$(TZ=Asia/Tokyo date -d "$today 00:00" -u +%Y-%m-%dT%H:%M:%SZ)
+          # filter would be wrong: the 07:13 JST send is created on the previous UTC day.
+          # NOTE: the offset must be spelled out. `TZ=Asia/Tokyo date -u -d "$today 00:00"`
+          # does NOT work: -u forces UTC for parsing too, so it yields UTC midnight (a
+          # future instant) and every run looks missing -> false alert.
+          since=$(date -u -d "$today 00:00 +0900" +%Y-%m-%dT%H:%M:%SZ)
           n=$(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/line-morning.yml/runs?per_page=30&status=success" \
               | jq --arg since "$since" '[.workflow_runs[] | select(.created_at >= $since)] | length')
           echo "successful sends since $since (JST midnight): $n"
