@@ -1,17 +1,19 @@
 name: Morning LINE digest
 
 # The PC builds the digest and commits line-latest.txt (+ line-date.txt) to this repo.
-# Sending is triggered externally (workflow_dispatch) -- see the note below.
+# This workflow does the actual LINE send; it is TRIGGERED by workflow_dispatch.
 #
-# SCHEDULE REMOVED 2026-07-16 (owner's call). GitHub never ran it: across both repos the
-# schedule fired ZERO times ever. '0 22' was moved to '13 22' precisely to dodge the
-# top-of-hour congestion and it still never fired, and econ's '33 20' (05:33 JST) was
-# likewise a no-show. A schedule that never starts cannot fail, so nothing alerts -- the
-# exact silent-non-delivery this whole pipeline is built to prevent. Do NOT restore a
-# schedule here expecting it to work; the replacement trigger is still to be decided.
+# WHO DISPATCHES IT: the Cloudflare Worker `lsm-scheduler` (code\tools\cf-scheduler\),
+# cron 13 22 * * * UTC = 07:13 JST, calls the workflow_dispatch API. That Worker is the
+# live morning trigger and it is deployed (verified firing 2026-07-17 07:13 JST).
+#
+# The vestigial GitHub `schedule:` block was removed 2026-07-16: it fired ZERO times ever
+# across both repos (even off-the-hour at '13 22' / '33 20'), and a schedule that never
+# starts cannot fail, so nothing alerts. Do NOT re-add a schedule here -- dispatch is the
+# mechanism that actually works. 正本 = code\tools\cf-scheduler\README.md.
 
 on:
-  workflow_dispatch: {}     # the only trigger: PC-side scripts / manual runs
+  workflow_dispatch: {}     # the only trigger; the Cloudflare Worker lsm-scheduler calls it
 
 permissions:
   contents: read
