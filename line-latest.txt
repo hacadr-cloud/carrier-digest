@@ -1,23 +1,20 @@
-📱 キャリア動向｜7/18(土)
+📱 キャリア動向｜7/20(月)
 ━━━━━━━━━━
 🔥 注目
-①iPhone全モデル値上げ、17eは10万超
-②AWS障害でPayPayに決済影響
-③d払い・dポイント特典を9月縮小
+①iPhone全モデル値上げ 17eは10万円超
+②中古市場が過去最高 値上げで先回り需要
+③ドコモが静岡市アリーナ整備・運営へ
 
 📲 新端末・メーカー
-・モトローラ横折りrazr fold約30万円
-・ファーウェイPura 90s、5G復活
-・Pixel 11予約は8月12日開始
-・Gemini Nano v3でPixel50%高速化
+・横折りrazr fold 約30万円で投入
+・ファーウェイPura 90s 5Gが復活
+・Pixel 11 8月13日発表 値上げの噂
+・新技術でPixelのAIが50%高速化
 
 💰 料金・キャンペーン
-・サマーセール'26で最大3.3万円引き
-・ワイモバのiPhone16が2年実質24円
-・ドコモiPhone17Pro2年実質6万円
-
-🏪 家電量販店
-・ガラケー風スマホをヤマダ電機で
+・サマーセール Galaxy最大3.3万円引き
+・OPPO Reno13A MNP2年実質47円
+・ワイモバiPhone16 2年実質24円
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-07-18.html
+https://hacadr-cloud.github.io/carrier-digest/2026-07-20.html
