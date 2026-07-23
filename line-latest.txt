@@ -1,23 +1,23 @@
 📱 キャリア動向｜7/23(木)
 ━━━━━━━━━━
 🔥 注目
-①圏外でドローンと衛星直接通信 国内初
-②iPhone日本のみ値上げ 円安反映
-③Galaxy折りたたみ新機種 8/7発売
+①Galaxy Z8を4キャリア同時発売
+②iPhone値上げ キャリア追随を確認
+③KDDI衛星直接通信でドローン国内初
 
 📲 新端末・メーカー
-・Fold8 Ultra 史上最薄4.1mm
-・Flip8 最薄最軽 19万円台
-・Watch9/Ultra2 8/7発売
-・Gemini搭載スマートグラス
+・史上最薄4.1mmのFold8 Ultra
+・世界最軽量201gの横折りFold8
+・最薄最軽の縦折りFlip8
+・Watch9/Ultra2を発表
 
 💰 料金・キャンペーン
-・SBのFlip7 機種変更2年2400円
-・Y!mobile iPhone16 MNP2年24円
-・IIJmio新規契約でノベルティ 9/30まで
+・SB Flip7 機種変で2年2400円
+・au Z8 機種変も3.3万円割引
+・SB Fold8/Flip8 2年7万円台
 
 🏪 家電量販店
-・MIVEケースマ 量販店で販路拡大
+・折りたたみ携帯MIVE 量販店拡大
 
 📄 全文はこちら
 https://hacadr-cloud.github.io/carrier-digest/2026-07-23.html
