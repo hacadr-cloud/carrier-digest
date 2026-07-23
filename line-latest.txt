@@ -1,27 +1,23 @@
-📱 キャリア動向｜7/22(水)
+📱 キャリア動向｜7/23(木)
 ━━━━━━━━━━
 🔥 注目
-①KDDI、圏外で衛星直通ドローン国内初
-②ドコモ、静岡市アリーナ運営に参入
-③メルカリ高額リユースEC、88社出店
+①圏外でドローンと衛星直接通信 国内初
+②iPhone日本のみ値上げ 円安反映
+③Galaxy折りたたみ新機種 8/7発売
 
 📲 新端末・メーカー
-・サムスン今夜Unpacked、折りたたみ主役
-・Pixel 11aリーク、チップ更新中心か
-・AirPodsやWatchなどApple製品値上げ
-・iPhone17、4キャリアで実質24円据置
+・Fold8 Ultra 史上最薄4.1mm
+・Flip8 最薄最軽 19万円台
+・Watch9/Ultra2 8/7発売
+・Gemini搭載スマートグラス
 
 💰 料金・キャンペーン
-・Galaxy Z Flip7、機変で2年2400円
-・LINEMO30GB、2カ月無料 7/26まで
-・ソニー銀行口座開設で1万円進呈
+・SBのFlip7 機種変更2年2400円
+・Y!mobile iPhone16 MNP2年24円
+・IIJmio新規契約でノベルティ 9/30まで
 
 🏪 家電量販店
-・MIVEケースマ、ヤマダ等で販路拡大
-・ビックカメラ関東でうちわ無料配布
-
-🌐 光回線
-・ソニー銀行、口座開設と利用で1万円進呈 NURO光の支払いでソニー製…
+・MIVEケースマ 量販店で販路拡大
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-07-22.html
+https://hacadr-cloud.github.io/carrier-digest/2026-07-23.html
