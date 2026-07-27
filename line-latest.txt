@@ -1,24 +1,27 @@
-📱 キャリア動向｜7/27(月)
+📱 キャリア動向｜7/28(火)
 ━━━━━━━━━━
 🔥 注目
-①ドコモ、iPhone 17など28日値上げ
-②Fold8は横長画面、iPhone包囲網
-③東京ポイントがPayPay交換に対応
+①ドコモ、iPhone値上げを28日実施
+②日本通信、ドコモ音声網接続が完了
+③UQ・Y!mobileがセット割なし新割引
 
 📲 新端末・メーカー
-・Galaxy Watch9とUltra2を発表
-・Z Flip8、完成度高も進化は小幅
-・au6月、Xperia 1 VIIIが2位
-・OPPO Find N6、3カ月使用の評価
+・Xperia 1 VIII、カメラ大刷新
+・AQUOS sense10、MNP1万9800円
+・Pixel 11、8月12日発表と値上げ
+・Galaxy Ring、無呼吸検知を追加
 
 💰 料金・キャンペーン
-・LINEMO、最大2万円相当を還元
-・AQUOS sense10がMNP1万9800円
-・バッテリー無料回収、8〜10月
+・LINEMO、最大2万円相当PayPay
+・セット割なしで1年間他社水準
+・バッテリー無料回収、10月末まで
 
 🏪 家電量販店
-・ヤマダ、ポチャッココラボ特典
+・ヤマダ、ポチャッココラボ企画
 ・ビックカメラ、ブルアカコラボ
 
+🌐 光回線
+・UQ mobileとY!mobileの「セット割なし」新割引を比較 …
+
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-07-27.html
+https://hacadr-cloud.github.io/carrier-digest/2026-07-28.html
