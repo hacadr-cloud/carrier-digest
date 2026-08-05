@@ -1,24 +1,23 @@
-📱 キャリア動向｜8/4(火)
+📱 キャリア動向｜8/6(木)
 ━━━━━━━━━━
 🔥 注目
-①ソフトバンク27年3月期1Q決算を発表
-②バイクシェア全国停止、料金は自動補正
-③au副番号を月550円でeSIM提供
+①SB第1四半期 増収増益とARPU上昇
+②下期モデルからハイエンド値上げ
+③au、1台2番号のセカンドナンバー
 
 📲 新端末・メーカー
-・Pixel 11 Pro Fold、13日発表
-・AQUOS R11、Leica監修カメラ搭載
-・発売前Galaxy Z Fold8をミリ波で体験
-・IIJmioセールにGalaxy Z8の3機種
+・AQUOS wish6 法人向けから先行
+・Galaxy Z Fold8 発売前に在庫薄
+・iPhone発表は9月9日の可能性
+・Android8月更新 脆弱性38件対処
 
 💰 料金・キャンペーン
-・ドコモの銀行記念、最大10億P山分け
-・Google Play決済で最大5万P、9/6まで
-・楽天紹介記念、最大10万Pを8/30まで
+・5G WELCOME割に2.2万円引き追加
+・Fold8 実質5万2380円から
+・NifMo eSIM 手数料3300円無料
 
-🏪 家電量販店
-・ポチャッコ×ヤマダのコラボ企画
-・LABI八重洲でSBコラボ、9日開催
+🌐 光回線
+・NifMoがeSIMを提供開始 登録手数料3300円が無料、光回線セ…
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-08-04.html
+https://hacadr-cloud.github.io/carrier-digest/2026-08-06.html
