@@ -1,24 +1,24 @@
-📱 キャリア動向｜8/15(土)
+📱 キャリア動向｜8/16(日)
 ━━━━━━━━━━
 🔥 注目
-①Pixel 11発表、輝度と充電速度が向上
-②衛星直接通信、28年度に音声通話へ
-③楽天とKDDI、ローミングを継続協議
+①衛星直接通信、28年度に音声通話へ
+②Pixel 11のキャリア価格出そろう
+③3キャリアがコミケ108の電波対策
 
 📲 新端末・メーカー
-・Pixel 11 Proは17万4800円から
-・HONOR、ジンバル格納型スマホ発表
-・Try Galaxy日本語版で折りたたみ体験
-・動画から静止画を自動切り出し
+・Pixel 11の進化点と値下げ機種
+・Pixel 11のAI刷新と販路拡大
+・HONORのジンバル格納型スマホ
+・Androidに端末を重ねる共有機能
 
 💰 料金・キャンペーン
-・Y!mobileのFind X9が実質10.8万円
-・QTモバイル、iPhone 17e 5500円引き
-・ドコモのiPhone 17e・Airが値下げ
+・ドコモPixel 11、2年6万円台半ば
+・Pixel 11購入で約3.8万ポイント
+・Find X9が実質10万8000円
 
 🏪 家電量販店
-・ビックカメラ浦和店、29日開業
-・量販店でSIMフリーPixel初取り扱い
+・ヤマダ電機のiPhone値下げ優遇
+・Google Store 表参道が開店
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-08-15.html
+https://hacadr-cloud.github.io/carrier-digest/2026-08-16.html
