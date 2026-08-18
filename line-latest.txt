@@ -1,24 +1,24 @@
-📱 キャリア動向｜8/17(月)
+📱 キャリア動向｜8/18(火)
 ━━━━━━━━━━
 🔥 注目
-①ドコモ、次世代衛星で直接通信強化
-②Pixel 11シリーズ8月20日発売
-③新国立の命名権を取らないドコモの狙い
+①10万円未満のハイエンドarrows、27日発売
+②楽天のKDDIローミング、9月末後が未定
+③au衛星SOSが家族の安心ナビに対応
 
 📲 新端末・メーカー
-・Galaxy Z Fold8 Ultra、ワイド型の実力
-・Galaxy Z Flip8、薄型軽量化で完成形
-・OPPO Reno16 5G、6700mAh電池
-・Galaxy Budsに補聴器機能、FDA承認
+・1万mAh電池のREDMIが日本上陸
+・iOS 26.6.1配信、脆弱性を修正
+・Galaxy S27、可変絞りの搭載見送りか
+・OPPO Reno16は6.3型で6700mAh
 
 💰 料金・キャンペーン
+・iPhone 17が約4万円割引、2年1万円台
+・Nothing Phone (3)を最大3万円値下げ
 ・Apple Watch最大4万3450円値下げ
-・LINEMO 10GB増量、8月23日まで
-・ヤマダでドコモiPhone特別値下げ
 
 🏪 家電量販店
-・イオンモール伊達に2701m2の新店
-・ヨドバシのレンズ売れ筋トップ10
+・BIC SIMのMNPで5000ポイント
+・イオンモール伊達に26年下期出店
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-08-17.html
+https://hacadr-cloud.github.io/carrier-digest/2026-08-18.html
