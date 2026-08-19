@@ -1,24 +1,24 @@
-📱 キャリア動向｜8/18(火)
+📱 キャリア動向｜8/19(水)
 ━━━━━━━━━━
 🔥 注目
-①10万円未満のハイエンドarrows、27日発売
-②楽天のKDDIローミング、9月末後が未定
-③au衛星SOSが家族の安心ナビに対応
+①KDDI、menuを9月末終了・会社解散
+②Android版ChromeにGemini統合
+③arrows Alpha2、9.4万円のハイエンド
 
 📲 新端末・メーカー
-・1万mAh電池のREDMIが日本上陸
-・iOS 26.6.1配信、脆弱性を修正
-・Galaxy S27、可変絞りの搭載見送りか
-・OPPO Reno16は6.3型で6700mAh
+・arrows Alpha2、5経路で8月27日発売
+・シャオミ1万mAhスマホ、日本発売へ
+・iPhone 18は2段階投入・値上げ懸念
+・iOS 26.6.1配信、脆弱性に対処
 
 💰 料金・キャンペーン
-・iPhone 17が約4万円割引、2年1万円台
-・Nothing Phone (3)を最大3万円値下げ
-・Apple Watch最大4万3450円値下げ
+・iPhone Air約2万円引き、8月28日まで
+・新幹線でpovo3時間使い放題、9/18開始
+・Nothing Phone(3)最大3万円値下げ
 
 🏪 家電量販店
-・BIC SIMのMNPで5000ポイント
-・イオンモール伊達に26年下期出店
+・BIC SIM、MNPで5000ポイント還元
+・コジマ×ビック、イオンモール伊達に新店
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-08-18.html
+https://hacadr-cloud.github.io/carrier-digest/2026-08-19.html
