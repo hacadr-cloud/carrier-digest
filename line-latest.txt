@@ -1,24 +1,24 @@
-📱 キャリア動向｜8/19(水)
+📱 キャリア動向｜8/20(木)
 ━━━━━━━━━━
 🔥 注目
-①KDDI、menuを9月末終了・会社解散
-②Android版ChromeにGemini統合
-③arrows Alpha2、9.4万円のハイエンド
+①menu 9月末終了、運営会社も解散
+②SBとANA、マイルが貯まる光回線開始
+③ドコモSMTB銀行、dアカウント連携開始
 
 📲 新端末・メーカー
-・arrows Alpha2、5経路で8月27日発売
-・シャオミ1万mAhスマホ、日本発売へ
-・iPhone 18は2段階投入・値上げ懸念
-・iOS 26.6.1配信、脆弱性に対処
+・Pixel 11シリーズ4機種を8月20日発売
+・arrows Alpha2は9.4万円から
+・Galaxy S26イベント、8月27日開催
+・Pixel Watch 5発売、3キャリア取扱
 
 💰 料金・キャンペーン
-・iPhone Air約2万円引き、8月28日まで
-・新幹線でpovo3時間使い放題、9/18開始
-・Nothing Phone(3)最大3万円値下げ
+・au PAY、500万P山分け10月20日まで
+・iPhone Air約2万円引き、28日まで
+・iPad 3機種が3万3000円オフ
 
 🏪 家電量販店
 ・BIC SIM、MNPで5000ポイント還元
-・コジマ×ビック、イオンモール伊達に新店
+・エディオンSIM、最大1万5000円還元
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-08-19.html
+https://hacadr-cloud.github.io/carrier-digest/2026-08-20.html
