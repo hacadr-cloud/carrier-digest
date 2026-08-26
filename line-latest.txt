@@ -1,20 +1,23 @@
-📱 キャリア動向｜8/25(火)
+📱 キャリア動向｜8/26(水)
 ━━━━━━━━━━
 🔥 注目
-①中古スマホ販売revere破産、負債18億円超
-②26年世界スマホ14.3％減、Samsung首位奪還
-③ドコモ×三菱地所、丸の内で5Gミリ波拡大
+①台風18号で携帯サービスに障害
+②povo2.0が5G SAを月額無料で開始
+③ドコモと三菱地所、大丸有でスマートシティ
 
 📲 新端末・メーカー
-・Xperia 10 VIII、電源2度押しで決済起動
-・シャオミ自社チップXRING O3、折りたたみ機採用
-・OPPO、部材高騰下でもスペック維持の新2機種
-・今秋のiPhoneはPro系のみとの観測
+・ソニーがXperia 10 VIIIを発表
+・ZTEの12型タブが3万9800円で27日発売
+・Xiaomiが1.22TB/sのAIチップ発表
+・Galaxy Z Flip8実機と下取り条件の比較
 
 💰 料金・キャンペーン
-・povo本気割、9月1日から還元50％へ増量
-・楽天のiPhone 17が月額999円から
-・auのPixel 11、MNPで2年間実質47円
+・iPhone 16が2年間1万2000円
+・povo本気割が50％還元へ増量
+・Nothing Phone (3a) Liteが2年24円
+
+🏪 家電量販店
+・ビックカメラが最大5000ポイント還元
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-08-25.html
+https://hacadr-cloud.github.io/carrier-digest/2026-08-26.html
