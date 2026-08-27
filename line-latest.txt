@@ -1,23 +1,24 @@
-📱 キャリア動向｜8/26(水)
+📱 キャリア動向｜8/27(木)
 ━━━━━━━━━━
 🔥 注目
-①台風18号で携帯サービスに障害
-②povo2.0が5G SAを月額無料で開始
-③ドコモと三菱地所、大丸有でスマートシティ
+①アップル、9月10日にiPhoneイベント
+②REDMI Note 17 Pro Max、1万mAh
+③台風18号でau一部エリアに影響
 
 📲 新端末・メーカー
-・ソニーがXperia 10 VIIIを発表
-・ZTEの12型タブが3万9800円で27日発売
-・Xiaomiが1.22TB/sのAIチップ発表
-・Galaxy Z Flip8実機と下取り条件の比較
+・arrows Alpha2、10万円切りハイエンド
+・REDMI 17、7500mAhで3万4980円
+・ZTE12型タブ、3万9800円で発売
+・シャオミ、5000円前後のウォッチ3種
 
 💰 料金・キャンペーン
-・iPhone 16が2年間1万2000円
-・povo本気割が50％還元へ増量
-・Nothing Phone (3a) Liteが2年24円
+・ワイモバ感謝祭、16eが約2万円引き
+・UQのiPhone 17e、2年5000円台
+・楽天のNothing Phone、2年24円
 
 🏪 家電量販店
-・ビックカメラが最大5000ポイント還元
+・ビックカメラ、下取り最大5000P
+・SIMフリーPixel 11、量販店で発売
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-08-26.html
+https://hacadr-cloud.github.io/carrier-digest/2026-08-27.html
