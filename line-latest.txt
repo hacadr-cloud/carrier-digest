@@ -1,28 +1,27 @@
-📱 キャリア動向｜9/6(日)
+📱 キャリア動向｜9/7(月)
 ━━━━━━━━━━
 🔥 注目
-①auひかりプラス9月17日開始、光と5G融合
-②ドコモメール障害、27日昼発生し復旧
-③KDDI、自己株式の取得状況を開示
+①光＋5G融合の新回線、9月17日開始
+②Pixel 6a発火、消費者庁が公表
+③KDDIローミング10月以降も継続
 
 📲 新端末・メーカー
-・Galaxy Z Fold8、薄型化技術の裏側
-・TCL P80、電子インク×OLEDの新表示
-・iPhone 18 Pro、画面が省電力進化か
-・REDMI Watch 6 Lite、6980円
+・折りたたみiPhone、9月10日発表か
+・Xiaomi 18 Fold、IFAで公開
+・Leitzphone最終再販、200台限定
+・HUAWEI WATCH D3、血圧測定対応
 
 💰 料金・キャンペーン
-・IIJmio、30GBが実質月2000円
-・arrows Alpha2、実質6万9900円
-・KONAMI連携で総額2000万ポイント
+・賃貸保証まとめ契約で最大1万5600pt
+・iPhone 17 Pro、実質2年9960円
+・povo年間契約でPixel10%オフ
 
 🏪 家電量販店
-・ヨドバシ名鉄名古屋店、9月16日開業
-・サンシャインサカエ店、9月5日改装
+・ビックカメラ1位、2370円の乾電池式
 
 🌐 光回線
 ・KDDIが光回線＋5Gの「auひかりプラス」を提供する狙い 光コラボ…
-・光回線とau 5G回線を融合したインターネットサービス「auひかりプ…
+・KDDI、固定インターネット「auひかりプラス」 5G対応で災害時も…
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-09-06.html
+https://hacadr-cloud.github.io/carrier-digest/2026-09-07.html
