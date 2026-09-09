@@ -1,27 +1,27 @@
-📱 キャリア動向｜9/7(月)
+📱 キャリア動向｜9/9(水)
 ━━━━━━━━━━
 🔥 注目
-①光＋5G融合の新回線、9月17日開始
-②Pixel 6a発火、消費者庁が公表
-③KDDIローミング10月以降も継続
+①明日未明のAppleイベント、折りたたみiPhone登場か
+②三井住友アプリでPayPay残高確認が可能に
+③ソフトバンク、3世代PON共存の実証に国内初成功
 
 📲 新端末・メーカー
-・折りたたみiPhone、9月10日発表か
-・Xiaomi 18 Fold、IFAで公開
-・Leitzphone最終再販、200台限定
-・HUAWEI WATCH D3、血圧測定対応
+・AQUOS wish6発表、SIMフリーは5万円前後
+・arrows Alpha2、10万円未満維持の裏側
+・ファーウェイ3つ折りMate XT 2、約46.5万円
+・Xiaomi 18 Fold、自社チップ搭載の折りたたみ
 
 💰 料金・キャンペーン
-・賃貸保証まとめ契約で最大1万5600pt
-・iPhone 17 Pro、実質2年9960円
-・povo年間契約でPixel10%オフ
+・iPhone Air、MNPで2年24円
+・UQのPixel 10a、割引増額で実質47円
+・au PAY マーケット最大36%還元、13日まで
 
 🏪 家電量販店
-・ビックカメラ1位、2370円の乾電池式
+・コジマ×ビックカメラ川口店、17日開店
+・ヨドバシ名鉄名古屋店、16日開店
 
 🌐 光回線
-・KDDIが光回線＋5Gの「auひかりプラス」を提供する狙い 光コラボ…
-・KDDI、固定インターネット「auひかりプラス」 5G対応で災害時も…
+・国内初、50G-PONを含む3世代のPON方式を一つの光トランシーバ…
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-09-07.html
+https://hacadr-cloud.github.io/carrier-digest/2026-09-09.html
