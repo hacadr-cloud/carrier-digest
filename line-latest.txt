@@ -1,27 +1,24 @@
-📱 キャリア動向｜9/19(土)
+📱 キャリア動向｜9/20(日)
 ━━━━━━━━━━
 🔥 注目
-①携帯4社が5Gミリ波エリア拡大を共同検討
-②HAPSレーザー測距に世界初成功、2027年商用化へ
-③KDDIの楽天ローミングが9月末終了
+①iPhone 18 Pro発売、Duoは10月23日
+②KDDIローミング終了で揺れる楽天
+③iPhone 18 ProがStarlink海外対応
 
 📲 新端末・メーカー
-・iPhone 18 Pro発売、Duoは10月23日
-・iPhone Duo実機レビュー、36万円が壁
-・18 Proの可変絞りを実写で検証
-・ドコモ、京セラ製タフスマホ9月30日
+・iPhone Duo実機、約36万円が壁
+・保護フィルムでFace ID認証不可
+・Oppo Find X10、2億画素3基搭載
+・iPhone国内シェア45.6%へ低下
 
 💰 料金・キャンペーン
-・au、iPhone 18 Pro実質2万2900円
-・ドコモ、18 Pro 256GBを4.5万円に
-・LINEMO、最大2万円還元＋手数料無料
+・LINEMO最大2万円還元、10月4日まで
+・SBのiPhone 18 Pro実質2万3760円
+・ドコモの銀行、外貨買付コスト0銭
 
 🏪 家電量販店
-・iPhone買取を最大1万円上乗せ、11月30日まで
-・コジマ、埼玉・川口に新店オープン
-
-🌐 光回線
-・ビッグローブ、光回線と5G融合の「BIGLOBE光プラス by au…
+・ビックAKIBAに中古レコード売場
+・ノジマ草加セーモンプラザ店開店
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-09-19.html
+https://hacadr-cloud.github.io/carrier-digest/2026-09-20.html
