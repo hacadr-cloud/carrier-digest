@@ -1,24 +1,24 @@
-📱 キャリア動向｜9/20(日)
+📱 キャリア動向｜9/21(月)
 ━━━━━━━━━━
 🔥 注目
-①iPhone 18 Pro発売、Duoは10月23日
-②KDDIローミング終了で揺れる楽天
-③iPhone 18 ProがStarlink海外対応
+①ドコモ、iPhone 17値上げも実質33円維持
+②つくばで自動運転バス、10月2日本格運行
+③楽天モバイル、ローミング縮小前の現在地
 
 📲 新端末・メーカー
-・iPhone Duo実機、約36万円が壁
-・保護フィルムでFace ID認証不可
-・Oppo Find X10、2億画素3基搭載
-・iPhone国内シェア45.6%へ低下
+・iPhone Duo、約36万円と厚みが壁
+・Oppo Find X10、3眼すべて2億画素
+・Xiaomi 18 Pro、リアディスプレイ継続
+・Face ID不具合、フィルムと濃いメイク
 
 💰 料金・キャンペーン
-・LINEMO最大2万円還元、10月4日まで
-・SBのiPhone 18 Pro実質2万3760円
-・ドコモの銀行、外貨買付コスト0銭
+・LINEMO、乗り換え最大2万円と手数料無料
+・ahamo月40GB、中容量プラン比較
+・OPPO Find N6、18%オフ25万9800円
 
 🏪 家電量販店
-・ビックAKIBAに中古レコード売場
-・ノジマ草加セーモンプラザ店開店
+・ビックカメラAKIBA、中古レコード店開店
+・ヨドバシ名鉄名古屋店、開店記念で大還元
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-09-20.html
+https://hacadr-cloud.github.io/carrier-digest/2026-09-21.html
