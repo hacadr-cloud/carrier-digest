@@ -1,24 +1,20 @@
-📱 キャリア動向｜10/1(木)
+📱 キャリア動向｜10/2(金)
 ━━━━━━━━━━
 🔥 注目
 ①SBG、米デジタルブリッジ買収完了
-②楽天向けauローミング9月末で終了
-③KDDI、AI自律型網を2028年度提供へ
+②楽天向けauローミング終了、都市部約4割減か
+③ソフトバンク携帯20年、AI-RANで次世代へ
 
 📲 新端末・メーカー
-・Xperia 10 VIII、3キャリアで10月8日
-・Galaxy Tab S12、10月7日発売
-・iPhone 18 Pro、可変絞りカメラ
-・BALMUDA Phone、サポート終了
+・Xperia 10 VIII、10月8日に3キャリア発売
+・Galaxy S26、最大3.5万円値上げ
+・Pixel 10a、1万2900円値上げ
+・Huawei Mate 90、HarmonyOS 7搭載
 
 💰 料金・キャンペーン
-・povo2.0、0.5GBが5円（新規）
-・ネット銀行紹介で最大1.5万円・31日まで
-・moto g37j、MNPで1円
-
-🏪 家電量販店
-・ヤマダ、iPhone 17e SIMフリー値下げ
-・ビック、razr fold実質21.8万円
+・povo2.0、0.5GB24時間が5円
+・楽天moto g37j、MNPで1円
+・BB.excite30GB、月1980円に値下げ
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-10-01.html
+https://hacadr-cloud.github.io/carrier-digest/2026-10-02.html
