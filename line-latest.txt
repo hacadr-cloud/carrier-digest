@@ -1,24 +1,24 @@
-📱 キャリア動向｜10/8(木)
+📱 キャリア動向｜10/9(金)
 ━━━━━━━━━━
 🔥 注目
-①ドコモメール障害、6日に利用しづらい状態
-②JR東日本の新決済teppay、20日開始
-③KDDI・SBなど12者がDC電力最適化を実証
+①フリービット創業者CEO辞任、調査報告受け
+②dポイント会員データ流出、ドコモが否定
+③Suica新決済teppay、20日開始・2万円超可
 
 📲 新端末・メーカー
-・ColorOS 17、10月13日に詳細公開
-・Pixel整備済品、最大45％オフで販売
-・新PC「Googlebook」米国で発売
-・ゲオ中古ランキング、iPhone 14が上位
+・iPhone 18 Pro Max、可変絞りと249gの重さ
+・OPPO Find X10、21日発表・全眼2億画素
+・ソニー空間マイク、10/23発売・3万円前後
+・Pixel整備済品、Googleストアで最大45%オフ
 
 💰 料金・キャンペーン
-・Pixel 11ほか3機種、MNPで1年12円
-・iPhone 17e、MNPで実質5547円
-・Galaxy最大10％オフ、11月4日まで
+・Pixel 11・Galaxy S26等、MNPで1年12円
+・Xperia 10 VIII、MNP+返却で2年24円
+・ワイモバ30GB、2カ月目まで基本料0円
 
 🏪 家電量販店
-・ビックカメラ、20日からteppay対応
-・充電式カイロ1670円から、スマホ充電可
+・ビック純利益16%増、スマホ販売が牽引
+・ビック店舗でteppay、20日から導入
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-10-08.html
+https://hacadr-cloud.github.io/carrier-digest/2026-10-09.html
