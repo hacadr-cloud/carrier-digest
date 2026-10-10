@@ -1,24 +1,23 @@
-📱 キャリア動向｜10/9(金)
+📱 キャリア動向｜10/10(土)
 ━━━━━━━━━━
 🔥 注目
-①フリービット創業者CEO辞任、調査報告受け
-②dポイント会員データ流出、ドコモが否定
-③Suica新決済teppay、20日開始・2万円超可
+①フリービット創業者CEO辞任、柴田氏が社長に
+②残価ルール厳格化で端末の実質負担増の懸念
+③dポイント1.1億件漏えい説をドコモが否定
 
 📲 新端末・メーカー
-・iPhone 18 Pro Max、可変絞りと249gの重さ
-・OPPO Find X10、21日発表・全眼2億画素
-・ソニー空間マイク、10/23発売・3万円前後
-・Pixel整備済品、Googleストアで最大45%オフ
+・iPhone 18 Pro Max、可変絞りと約249g
+・OPPO Find X10、21日発表・2億画素
+・ソニー空間音響マイク、23日発売3万円前後
+・iPhone Duo向けUI指針、2画面対応
 
 💰 料金・キャンペーン
-・Pixel 11・Galaxy S26等、MNPで1年12円
-・Xperia 10 VIII、MNP+返却で2年24円
+・Xperia 10 VIII、MNP・返却で2年47円
 ・ワイモバ30GB、2カ月目まで基本料0円
+・Samsung Week最大10％オフ、11/4まで
 
 🏪 家電量販店
-・ビック純利益16%増、スマホ販売が牽引
-・ビック店舗でteppay、20日から導入
+・ヤマダ、SIMフリーiPhone 17 Pro値下げ
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-10-09.html
+https://hacadr-cloud.github.io/carrier-digest/2026-10-10.html
