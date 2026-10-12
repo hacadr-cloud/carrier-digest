@@ -1,23 +1,22 @@
-📱 キャリア動向｜10/11(日)
+📱 キャリア動向｜10/12(月)
 ━━━━━━━━━━
 🔥 注目
-①フリービット創業者の石田CEOが辞任
+①dポイント1.1億件漏えい説を調査で否定
 ②残価ルール厳格化で実質負担増の懸念
-③dポイント1億件流出説をドコモが否定
+③楽天のauローミング、新契約で縮小
 
 📲 新端末・メーカー
-・OPPO Find X10、21日発表
-・iPhone 18 Pro Max、可変絞りに高評価
-・iPhone Duo、2画面UI指針を公開
-・ソニー空間音響マイク、約3万円
+・iPhone Duo、2画面UIの設計指針
+・POCO F9 Ultra、185Hz画面とBose
+・MagSafe対応Duo用ケース3980円
+・ドラレコ映像をスマホで即確認
 
 💰 料金・キャンペーン
-・Xperia 10 VIII、MNPで2年47円
-・ワイモバ30GB、2カ月目まで0円
-・Pixel 10a 256GB、11万6930円に
+・Pixel 10a、11万6930円に値上げ
 
 🏪 家電量販店
-・ヤマダ、iPhone 17 Pro値下げ
+・SIMフリーiPhone 17 Pro値下げ
+・Pixel Buds 2a、1890円引き
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-10-11.html
+https://hacadr-cloud.github.io/carrier-digest/2026-10-12.html
