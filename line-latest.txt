@@ -1,22 +1,23 @@
-📱 キャリア動向｜10/12(月)
+📱 キャリア動向｜10/13(火)
 ━━━━━━━━━━
 🔥 注目
-①dポイント1.1億件漏えい説を調査で否定
-②残価ルール厳格化で実質負担増の懸念
-③楽天のauローミング、新契約で縮小
+①iPhone Duo 41万9760円から、23日発売
+②フルMVNO回線が追加料金なしで5G対応
+③ドコモとソフトバンクの品質評価逆転
 
 📲 新端末・メーカー
-・iPhone Duo、2画面UIの設計指針
-・POCO F9 Ultra、185Hz画面とBose
-・MagSafe対応Duo用ケース3980円
-・ドラレコ映像をスマホで即確認
+・moto g37、22日発売で2万2000円
+・画面付きトラッカーFitbit Edge
+・ファーウェイの24時間連続測定戦略
+・Apple Watch67モデルの買取開始
 
 💰 料金・キャンペーン
-・Pixel 10a、11万6930円に値上げ
+・dポイント最大15％増量、11/1〜1/5
+・Loppi購入でデータ20％増量、11/30まで
+・iPhone Air 21％オフの14万9800円
 
 🏪 家電量販店
-・SIMフリーiPhone 17 Pro値下げ
-・Pixel Buds 2a、1890円引き
+・ヤマダデンキ、大阪・平野に27年春出店
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-10-12.html
+https://hacadr-cloud.github.io/carrier-digest/2026-10-13.html
