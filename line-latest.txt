@@ -1,24 +1,27 @@
-📱 キャリア動向｜10/20(火)
+📱 キャリア動向｜10/21(水)
 ━━━━━━━━━━
 🔥 注目
-①ニフティ不正アクセス、最大54万件流出の恐れ
-②My SoftBank等3サイト停止、不正アクセス対策
-③teppay開始、上限30万円と個人間送金に対応
+①My SoftBank等停止、不正アクセスの試み
+②マネックス証券、新規口座受付を一時停止
+③teppay開始、最大30万円決済と送金
 
 📲 新端末・メーカー
-・Nothing Phone (4b)、27日発売で5万8900円
-・iPhone Duo電池4883mAh、持ちに不安
-・法人向けDIGNO SX5、5年更新と高耐久
-・povo内蔵ルーター、10GB・365日付き
+・ファーウェイWATCH 6・GT 7シリーズ発表
+・楽天でNothing Phone (4b)、5万8900円
+・法人向けDIGNO BX4、10月28日発売
+・サムスン、来年折りたたみ6機種の噂
 
 💰 料金・キャンペーン
-・razr 50 ultra、MNP一括9.98万円 11/4まで
-・Apple Watch各種、最大4.3万円値下げ
-・Xperia 10 VII等、機種変更で最大2.2万円引き
+・razr 50 ultra、MNPで9万9800円
+・認定中古iPhone SE、MNPで1円
+・Apple Watch、最大4.3万円値下げ
 
 🏪 家電量販店
-・ビックカメラteppay対応、11/4から最大35％還元
-・エディオン塚口店、建て替え後11/13開店
+・ビックカメラ、teppayで最大35％還元
+・ノジマ新座店、10月22日開業
+
+🌐 光回線
+・LIBMOが「超なっとくプラン」提供 データ増量で40GBが2970…
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-10-20.html
+https://hacadr-cloud.github.io/carrier-digest/2026-10-21.html
