@@ -1,24 +1,24 @@
-📱 キャリア動向｜11/1(日)
+📱 キャリア動向｜11/2(月)
 ━━━━━━━━━━
 🔥 注目
-①KDDI利用者の氏名・連絡先が流出の恐れ
-②ドコモメールで障害、復旧見込みは未定
-③世界スマホ出荷20%減、メモリー高騰が要因
+①不正アクセスでKDDI顧客の氏名等漏えいの可能性
+②ドコモメール障害、復旧見込みは確認中
+③ドコモ5G化率18.5％で4社中最下位
 
 📲 新端末・メーカー
-・au首位はiPhone 18 Pro、上位10のうち6枠
-・iPhone Duo、254gの重さとFace ID非搭載
-・新iPad mini、有機ELとIP67に対応
-・楽天モバイルで新iPad mini、11月6日発売
+・XRグラス、auとドコモが27日発売・22.9万円〜
+・au9月、iPhone 18 Proが首位・6枠を占有
+・Apple Watch、Huawei機と一部連携
+・新iPad mini、有機EL・IP67・A20 Pro搭載
 
 💰 料金・キャンペーン
-・iPhone Air、2年実質7万6952円
-・エディオン・ローソンで最大3万pt、11月中
-・au PAY決済ランキング、1位に2.5万pt
+・iPhone Air 256GBが1万1000円引き
+・PayPay自治体還元、上野原市は25％
+・dポイント交換で8％増量、11周年山分け
 
 🏪 家電量販店
-・motorola edge 70 fusionが値下げ
-・坂戸店にスマホ・リユース売り場を新設
+・エディオン近江八幡、売場約2倍で27日開業
+・teppay×ビックカメラSuica、4日から特典
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-11-01.html
+https://hacadr-cloud.github.io/carrier-digest/2026-11-02.html
