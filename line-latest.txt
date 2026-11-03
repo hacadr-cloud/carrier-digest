@@ -1,24 +1,24 @@
-📱 キャリア動向｜11/2(月)
+📱 キャリア動向｜11/3(火)
 ━━━━━━━━━━
 🔥 注目
-①不正アクセスでKDDI顧客の氏名等漏えいの可能性
-②ドコモメール障害、復旧見込みは確認中
-③ドコモ5G化率18.5％で4社中最下位
+①XREAL AURA、ドコモ・auが27日発売
+②ドコモ5G化率18.5％、大手で最下位
+③iPhone 18 Pro販売3.1％増、中国29％増
 
 📲 新端末・メーカー
-・XRグラス、auとドコモが27日発売・22.9万円〜
-・au9月、iPhone 18 Proが首位・6枠を占有
-・Apple Watch、Huawei機と一部連携
-・新iPad mini、有機EL・IP67・A20 Pro搭載
+・iPhone Duoのカメラ性能を検証
+・新iPad miniとDuo、同じA20 Pro
+・Galaxy折りたたみ、フィルム貼替を有料化
+・iPhone Duo、AIボットによる転売が横行
 
 💰 料金・キャンペーン
-・iPhone Air 256GBが1万1000円引き
-・PayPay自治体還元、上野原市は25％
-・dポイント交換で8％増量、11周年山分け
+・razr 60d、MNPで2年間33円
+・認定中古iPhone 14が50％オフ
+・PayPay自治体連携、12月から最大25％還元
 
 🏪 家電量販店
-・エディオン近江八幡、売場約2倍で27日開業
-・teppay×ビックカメラSuica、4日から特典
+・ビックカメラteppay最大35％還元
+・エディオン近江八幡、11/27売場2倍で移転
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-11-02.html
+https://hacadr-cloud.github.io/carrier-digest/2026-11-03.html
