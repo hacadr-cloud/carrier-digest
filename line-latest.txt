@@ -1,24 +1,24 @@
-📱 キャリア動向｜11/3(火)
+📱 キャリア動向｜11/4(水)
 ━━━━━━━━━━
 🔥 注目
-①XREAL AURA、ドコモ・auが27日発売
-②ドコモ5G化率18.5％、大手で最下位
-③iPhone 18 Pro販売3.1％増、中国29％増
+①ドコモ第2四半期は増収増益、ドコモMAX好調
+②緊急地震速報の未配信を社長が謝罪
+③Apple7〜9月期売上が過去最高1145億ドル
 
 📲 新端末・メーカー
-・iPhone Duoのカメラ性能を検証
-・新iPad miniとDuo、同じA20 Pro
-・Galaxy折りたたみ、フィルム貼替を有料化
-・iPhone Duo、AIボットによる転売が横行
+・XREAL AURA、ドコモ・auから27日発売
+・iPhone Duo、アプリ最適化の遅れが課題
+・Find X9 Ultraが21％オフの21.6万円
+・au Design project、11/18に発表予告
 
 💰 料金・キャンペーン
-・razr 60d、MNPで2年間33円
-・認定中古iPhone 14が50％オフ
-・PayPay自治体連携、12月から最大25％還元
+・LINEMO手数料3850円が0円、8日まで
+・中古iPhone 14が2万3040円、半額
+・ahamo12月改定、40〜60GB層は値下げ
 
 🏪 家電量販店
-・ビックカメラteppay最大35％還元
-・エディオン近江八幡、11/27売場2倍で移転
+・teppay×ビックで最大35％還元
+・ベスト電器、シンガポール13店目を6日開業
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-11-03.html
+https://hacadr-cloud.github.io/carrier-digest/2026-11-04.html
