@@ -1,24 +1,24 @@
-📱 キャリア動向｜11/11(水)
+📱 キャリア動向｜11/12(木)
 ━━━━━━━━━━
 🔥 注目
-①ドコモ全国障害、原因は5G SA
-②ソフトバンク上期は最高益、通期上方修正
-③楽天とAST、衛星直接通信の新会社
+①ドコモ全国障害が完全復旧、5G SA輻輳
+②楽天と米ASTが衛星通信の新会社設立
+③3キャリア上期決算、値上げでARPU増
 
 📲 新端末・メーカー
-・Pixel Drop配信とPixel Tag発売
-・Xiaomi 18 Pro、17日に発表
-・Pixel 11の写真保存不具合を修正
-・世界スマホ売上増、Appleが5割
+・新iPad mini、有機ELで薄型化
+・AQUOS R10、UWB改札の体験に採用
+・11月Pixel Drop配信、Pixel Tag発売
+・iPhone Duo、各販路で在庫が減少
 
 💰 料金・キャンペーン
-・AQUOS R9が一括5.48万円、30日まで
-・Apple One月1350円、10%還元2年
+・超PayPay祭11/20〜、最大10万pt
+・Apple One月1350円、2年10%還元
 ・povoガチャ1回1111円、12日朝まで
 
 🏪 家電量販店
 ・ノジマ新潟に新店、国内250店舗
-・ビック、羽田T3出国エリアに13日出店
+・ビック、teppay決済で最大35%還元
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-11-11.html
+https://hacadr-cloud.github.io/carrier-digest/2026-11-12.html
