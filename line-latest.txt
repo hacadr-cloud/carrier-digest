@@ -1,28 +1,20 @@
-📱 キャリア動向｜11/22(日)
+📱 キャリア動向｜11/23(月)
 ━━━━━━━━━━
 🔥 注目
-①大雪でau回線に障害、11/22時点も継続
-②mineo漏えい最大142万件、決済情報は含まず
-③INFOBAR ZERO 12/25発売、通話・SMS専用
+①大雪でau携帯が一部利用不可・つながりにくい
+②通話・SMS専用INFOBAR ZERO、12/25発売
+③外部ID乗っ取りによるPayPay不正利用に注意
 
 📲 新端末・メーカー
-・iPhone Duo顔認証、Apple PayはTouch IDのまま
-・Xiaomi 18 Pro体験会、表参道で23日まで
-・HONOR旗艦機、500mm望遠を手持ちで撮影
-・Galaxy Ring、睡眠時無呼吸の検知を更新
+・iPhone Duoに顔認証ロック解除、iOS 27.3β
+・ドコモ版AQUOS sense10にAndroid 17
+・HONOR最上位機、500mm望遠レンズ対応
+・Galaxy Ring、米韓で睡眠時無呼吸検知
 
 💰 料金・キャンペーン
-・ドコモ光10ギガ 最大1年2970円、12/1開始
-・楽天モバイル初契約で2万pt、カード会員限定
-・Y!mobile、中古iPhone14が2.3万円 12/1まで
-
-🏪 家電量販店
-・ヨドバシ池袋、バッテリー点検会 11/21〜22
-・量販店の家電購入後20分勧誘、SNSで話題
-
-🌐 光回線
-・光回線サービスの満足度は「eo光」がトップ、利用は「ドコモ光」が最多…
-・ドコモ、10ギガの光回線が最大1年間2970円／月 12月1日から
+・iPhone 18 Pro Max、MNPで2年実質8万5920円
+・ドコモ×Amazon BF還元、11/27〜12/7
+・Samsung BF最大19％還元、12/1 15時まで
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-11-22.html
+https://hacadr-cloud.github.io/carrier-digest/2026-11-23.html
