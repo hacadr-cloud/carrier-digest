@@ -1,20 +1,24 @@
-📱 キャリア動向｜11/23(月)
+📱 キャリア動向｜11/24(火)
 ━━━━━━━━━━
 🔥 注目
-①大雪でau携帯が一部利用不可・つながりにくい
-②通話・SMS専用INFOBAR ZERO、12/25発売
-③外部ID乗っ取りによるPayPay不正利用に注意
+①大雪で4キャリア障害、岐阜でローミング
+②INFOBAR ZERO、8年ぶり新機種
+③データSIMも本人確認、27年4月施行へ
 
 📲 新端末・メーカー
-・iPhone Duoに顔認証ロック解除、iOS 27.3β
-・ドコモ版AQUOS sense10にAndroid 17
-・HONOR最上位機、500mm望遠レンズ対応
-・Galaxy Ring、米韓で睡眠時無呼吸検知
+・iPhone Duo、14日以内なら返品可
+・AQUOS sense10にAndroid 17
+・Apple Watch S12の新センサー
+・Motorola Razr Flexのリーク
 
 💰 料金・キャンペーン
-・iPhone 18 Pro Max、MNPで2年実質8万5920円
-・ドコモ×Amazon BF還元、11/27〜12/7
-・Samsung BF最大19％還元、12/1 15時まで
+・楽天カードと同時で最大3万pt、12/21まで
+・Apple Watch最大2.75万円引き、1/5まで
+・LIBMO、OPPO4機種が最大3万円引き
+
+🏪 家電量販店
+・ビック、moto g37jが3.08万円＋10%pt
+・AstroToo、ビック・ヨドバシで2.4万円
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-11-23.html
+https://hacadr-cloud.github.io/carrier-digest/2026-11-24.html
