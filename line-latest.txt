@@ -1,24 +1,27 @@
-📱 キャリア動向｜11/24(火)
+📱 キャリア動向｜11/25(水)
 ━━━━━━━━━━
 🔥 注目
-①大雪で4キャリア障害、岐阜でローミング
-②INFOBAR ZERO、8年ぶり新機種
-③データSIMも本人確認、27年4月施行へ
+①大雪で4キャリア障害、岐阜でローミング継続
+②My auから衛星SOS送信、専用アプリ不要
+③HR03発売、8アンテナ・Wi-Fi 7搭載
 
 📲 新端末・メーカー
-・iPhone Duo、14日以内なら返品可
-・AQUOS sense10にAndroid 17
-・Apple Watch S12の新センサー
-・Motorola Razr Flexのリーク
+・モトローラ初の高級機、17万9800円
+・iPhone Duo年内納品の販路別状況
+・iPhone 18 Pro高価格が店頭で追い風
+・iPhone Air 2、2眼カメラ化の噂
 
 💰 料金・キャンペーン
-・楽天カードと同時で最大3万pt、12/21まで
 ・Apple Watch最大2.75万円引き、1/5まで
-・LIBMO、OPPO4機種が最大3万円引き
+・Pixel 10a、2回線目で2年24円
+・楽天モバイル＋カードで最大3万pt、12/21まで
 
 🏪 家電量販店
-・ビック、moto g37jが3.08万円＋10%pt
-・AstroToo、ビック・ヨドバシで2.4万円
+・ビック moto g37j 3万800円＋10%還元
+・ヨドバシ2027年福箱の抽選受付開始
+
+🌐 光回線
+・ドコモ、5Gホームルーター「home 5G HR03」26日発売、ド…
 
 📄 全文はこちら
-https://hacadr-cloud.github.io/carrier-digest/2026-11-24.html
+https://hacadr-cloud.github.io/carrier-digest/2026-11-25.html
